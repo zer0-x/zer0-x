@@ -6,8 +6,10 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.online/@zer0x)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zer0_x0)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/zer0-x)
+[![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white)](https://stackexchange.com/users/21136379/zer0-x)
 
 [![CodeWars Badge](https://www.codewars.com/users/zer0-x/badges/large)](https://www.codewars.com/users/zer0-x)
+
 
 
 ## 💻 Software
@@ -34,6 +36,7 @@
 ### 🛠️ Tools
 [![vscode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/)
 [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)](https://www.vim.org/)
+[![TeXstudio](https://img.shields.io/badge/TeXstudio-29003d?style=for-the-badge)](https://www.texstudio.org/)
 [![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)](https://www.virtualbox.org/)
@@ -53,6 +56,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)](https://sqlite.org/index.html)
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://simple.wikipedia.org/wiki/HTML)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ## 🔌 Technologies & Protocols

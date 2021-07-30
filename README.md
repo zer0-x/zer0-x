@@ -3,7 +3,7 @@
 
 ## :telephone_receiver: Contact & Social
 [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](https://matrix.to/#/@zer0-x:matrix.org)
-[![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.online/@zer0x)
+[![Mastodon](https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@zer0_x)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/zer0_x0)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white)](https://gitlab.com/zer0-x)
 [![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white)](https://stackexchange.com/users/21136379/zer0-x)

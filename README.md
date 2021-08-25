@@ -15,11 +15,12 @@
 ## 💻 Software
 ### 💿 OSs
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](https://manjaro.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=Fedora&logoColor=white)](https://getfedora.org/)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white)](https://www.kali.org/)
 [![Tails](https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=Tails&logoColor=white)](https://tails.boum.org/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge)](https://www.apple.com/ios)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com/ios)
 
 
 
@@ -70,13 +71,15 @@
 
 ## 📚 Libraries and frameworks
 [![GNU GetText](https://img.shields.io/badge/GNU%20gettext-000000?style=for-the-badge&logo=Google%20Translate&logoColor=white)](https://www.gnu.org/software/gettext)
-[![python-telegram-bot](https://img.shields.io/badge/Python%20Telegram%20bot-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://python-telegram-bot.org/)
 [![Flask](https://img.shields.io/badge/Python%20Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com)
 
 ## Others
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org/)
 [![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white)](https://en.wikipedia.org/wiki/RSS)
 [![json](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://en.wikipedia.org/wiki/JSON)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-000000?style=for-the-badge)](https://en.wikipedia.org/wiki/OpenSearch)
+[![Firefox Extensions](https://img.shields.io/badge/Firefox%20Extensions-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 [![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=KDE&logoColor=white)](https://kde.org/)
+[![XFCE](https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=XFCE&logoColor=white)](https://xfce.org/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org)
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=Bitcoin&logoColor=white)](https://bitcoin.org/)
